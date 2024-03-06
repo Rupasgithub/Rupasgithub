@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rupasgithub
+- 👋 Hi, I’m Rupa
 - 👀 I’m interested in Data Science, Machine Learning, NLP and LLMs
 - 🌱 I’m currently learning Python, Data Visualization, NLP
 - 📫 How to reach me rupa_arani@yahoo.com
